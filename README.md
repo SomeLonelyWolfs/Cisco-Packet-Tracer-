@@ -1,2 +1,2 @@
 # Cisco-Packet-Tracer-
-Some diagrams
+Some diagrams, and some activities done
